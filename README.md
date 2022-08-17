@@ -2,7 +2,7 @@
 
 A iniciativa QuickAnalytics foi desenvolvida com a pretensão de facilitar e fortalecer o acesso a análise de dados, bem como disseminar conhecimento.
 
-Neste webapp você terá acesso a diversas funcionalidades, na aba:
+Neste webapp (acessível em https://joaoflavio.shinyapps.io/QuickAnalytics/) você terá acesso a diversas funcionalidades, na aba:
 
 * Dados (importar e exportar): podemos carregar uma tabela de dados, realizar mudança nos tipos de colunas e baixar a mesma;
 * Ambiente Gráfico: a partir da tabela carregada na aba Dados, podemos selecionar as colunas desejadas para gerar gráficos de forma simples e exportar o código R que gera este mesmo gráfico;
