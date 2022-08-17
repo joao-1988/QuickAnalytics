@@ -1,0 +1,34 @@
+---
+title: "Olar"
+author: "João Flávio Andrade Silva"
+date: "23 de outubro de 2018"
+output: pdf_document
+---
+
+## Apresentação 
+
+O projeto QuickAnalytics (AwesomeData ou Data is easy) pretende tornar a análise de dados um tema mais acessível.
+Por que de querer tornar a anpalise de dados mais acessivel? Primeiro, sabemos que o aumento no armazenamento de dados é exponencial ao longo do tempo, e a demanda por profissionais com capacidade para análisar quantidades massivas de dados acompanha esta evolução. No entanto, não observamos no mercado um aumento na capacitação dos profissionais nesta área que acompanhe sua demanda.
+
+Fortalecer a comunidade de análise de dados, disseminando conhecimento, facilitando o acesso de determinadas ferramentas, etc.
+
+De que forma faremos isso? 
+Disponibilizando conteudo gratuito com linguagem simples, na medida do possível.
+
+temas relacionados: data science (ciência de dados), estatística, machine learning, deep learning, inteligência artificial.
+
+### Objetivos
+
+Este aplicativo tem como objetivo principal diminuir as barreiras (técnicas e teóricas) da análise de dados com o público que tem pouca ou nenhuma familiaridade com o tema.
+
+
+### Funcionalidades
+
+#### Ativas
+Importar, visualizar e exportar conjunto de dados. O fato de aceitarmos a importação em diversos formatos e permitirmos também a exportação em diferentes formatos da importação, contemplamos a funcionalidade de conversão de formatos/extensões.
+
+#### Em desenvolvimento
+Descritiva 
+Visualização
+Modelagem
+
